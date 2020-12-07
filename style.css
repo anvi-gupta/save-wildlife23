@@ -15,12 +15,14 @@ body{
     width: 500px;
 }
 .bar{
-    display: flex;
     position: fixed;
+    display: flex;
+    
     justify-content: center;
+   
+    align-items: center;
     height:60px;
     width: 100%;
-    align-items: center;
     background-color: black;
 }
 a{
